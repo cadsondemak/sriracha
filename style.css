@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Sriracha-Regular';
-    src: url('Sriracha-Regular.ttf') format('truetype'),
+    src: url('fonts/Sriracha-Regular.ttf') format('truetype'),
          url('fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
-         url('Sriracha-Regular.woff') format('woff');
+         url('fonts/Sriracha-Regular.woff') format('woff');
     font-weight: 400;
 }
 
