@@ -15,7 +15,9 @@
 	<key>familyName</key>
 	<string>Sriracha</string>
 	<key>license</key>
-	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1.
+	<string>Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
 
@@ -135,7 +137,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1220</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-550</integer>
+	<integer>-570</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-21</integer>
