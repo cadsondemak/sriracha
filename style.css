@@ -107,6 +107,7 @@
 
 #block-7 {
   background: url("img/block07.png") no-repeat center;
+  background-size: cover;
   color: #FFF;
   background-color: #333333;
 }
@@ -123,6 +124,7 @@
 
 #block-8 {
   background: url("img/block08.png") no-repeat center;
+  background-size: cover;
   color: #A6CE39;
   background-color: #333333;
 }
