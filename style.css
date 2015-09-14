@@ -1,9 +1,10 @@
 @font-face {
     font-family: 'Sriracha-Regular';
-    src: url('./fonts/Sriracha-Regular.ttf') format('truetype'),
-         url('./fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Sriracha-Regular.woff') format('woff');
-
+    src: url('./fonts/Sriracha-Regular.eot');
+    src: url('./fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Sriracha-Regular.woff2') format('woff2'),
+         url('./fonts/Sriracha-Regular.woff') format('woff'),
+         url('./fonts/Sriracha-Regular.ttf') format('truetype');
 }
 
 #block-1 {
@@ -12,7 +13,7 @@
 }
 
 #block-1-header {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 35pt;
 
   text-align: center;
@@ -28,7 +29,7 @@
 #block-2 {
   color: #A6CE39;
   background-color: #FFF;
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 35pt;
   font-weight: normal;
   text-align: left;
@@ -43,7 +44,7 @@
 }
 
 #block-3-text {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 24pt;
 
   line-height: 150%;
@@ -59,7 +60,7 @@
 }
 
 #block-4-text {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 24pt;
 
   line-height: 150%;
@@ -83,7 +84,7 @@
 }
 
 #block-6-text1 {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 84pt;
   line-height: 80%;
 
@@ -91,7 +92,7 @@
 }
 
 #block-6-text2 {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 90pt;
   line-height: 50%;
 
@@ -99,7 +100,7 @@
 }
 
 #block-6-text3 {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 36pt;
 
   text-align: center;
@@ -113,7 +114,7 @@
 }
 
 #block-7-text {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 30pt;
 
   line-height: 150%;
@@ -130,7 +131,7 @@
 }
 
 #block-8-text {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 20pt;
 
   line-height: 150%;
@@ -142,7 +143,7 @@
 #block-9 {
   color: #A6CE39;
   background-color: #FFF;
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 45pt;
   line-height: 100%;
 
@@ -152,7 +153,7 @@
 }
 
 #block-9-Title {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 18pt;
 
   text-align: left;
@@ -160,7 +161,7 @@
 }
 
 #block-9-Char {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   font-size: 40pt;
 
   text-align: left;
@@ -168,7 +169,7 @@
 }
 
 #block-9-Vowel {
-  font-family: Sriracha-Regular;
+  font-family: 'Sriracha-Regular';
   line-height: 150%;
   font-size: 40pt;
 
