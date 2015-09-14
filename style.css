@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Sriracha-Regular';
-    src: url('fonts/Sriracha-Regular.ttf') format('truetype'),
-         url('fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Sriracha-Regular.woff') format('woff');
-    font-weight: 400;
+    src: url('./fonts/Sriracha-Regular.ttf') format('truetype'),
+         url('./fonts/Sriracha-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Sriracha-Regular.woff') format('woff');
+
 }
 
 #block-1 {
@@ -14,7 +14,7 @@
 #block-1-header {
   font-family: Sriracha-Regular;
   font-size: 35pt;
-  font-weight: 400;
+
   text-align: center;
   padding-top: 180px;
   padding-bottom: 210px;
@@ -22,7 +22,7 @@
 
 #name {
   font-size: 90pt;
-  font-weight: 400;
+
 }
 
 #block-2 {
@@ -45,7 +45,7 @@
 #block-3-text {
   font-family: Sriracha-Regular;
   font-size: 24pt;
-  font-weight: 400;
+
   line-height: 150%;
   text-align: left;
   padding-top: 30px;
@@ -61,7 +61,7 @@
 #block-4-text {
   font-family: Sriracha-Regular;
   font-size: 24pt;
-  font-weight: 400;
+
   line-height: 150%;
   text-align: left;
   padding-top: 490px;
@@ -86,7 +86,7 @@
   font-family: Sriracha-Regular;
   font-size: 84pt;
   line-height: 80%;
-  font-weight: 400;
+
   text-align: center;
 }
 
@@ -94,14 +94,14 @@
   font-family: Sriracha-Regular;
   font-size: 90pt;
   line-height: 50%;
-  font-weight: 400;
+
   text-align: center;
 }
 
 #block-6-text3 {
   font-family: Sriracha-Regular;
   font-size: 36pt;
-  font-weight: 400;
+
   text-align: center;
 }
 
@@ -115,7 +115,7 @@
 #block-7-text {
   font-family: Sriracha-Regular;
   font-size: 30pt;
-  font-weight: 400;
+
   line-height: 150%;
   text-align: left;
   padding-top: 90px;
@@ -132,7 +132,7 @@
 #block-8-text {
   font-family: Sriracha-Regular;
   font-size: 20pt;
-  font-weight: 400;
+
   line-height: 150%;
   text-align: left;
   padding-top: 90px;
@@ -145,7 +145,7 @@
   font-family: Sriracha-Regular;
   font-size: 45pt;
   line-height: 100%;
-  font-weight: 400;
+
   text-align: left;
   padding-top: 50px;
   padding-bottom: 70px;
@@ -154,7 +154,7 @@
 #block-9-Title {
   font-family: Sriracha-Regular;
   font-size: 18pt;
-  font-weight: 400;
+
   text-align: left;
   letter-spacing: 0px
 }
@@ -162,7 +162,7 @@
 #block-9-Char {
   font-family: Sriracha-Regular;
   font-size: 40pt;
-  font-weight: 400;
+
   text-align: left;
   letter-spacing: 3px
 }
@@ -171,7 +171,7 @@
   font-family: Sriracha-Regular;
   line-height: 150%;
   font-size: 40pt;
-  font-weight: 400;
+
   text-align: left;
 }
 
