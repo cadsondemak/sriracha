@@ -6,7 +6,7 @@ Sriracha is a Thai and Latin Handwriting typeface. It has 3 stylistic set altern
 
 A similarity between some glyphs such as [ก ถ ภ ฤ ฦ] [ฎ ฏ] [บ ป] [ข ช] is something to take into consideration because it might lead to confusion if each glyph is not clear enough.
 
-Thai handwriting typefaces have slightly simplified details. Its semi-thick-and-thin strokes need to be managed carefully seeing that it has to be readable and portray natural adult handwriting.
+Thai handwriting typefaces have slightly simplified details. In this case, its semi-thick-and-thin strokes need to be managed carefully seeing that it has to be readable and portray natural adult handwriting.
 
 Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures.
 
