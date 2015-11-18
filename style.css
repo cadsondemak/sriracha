@@ -10,15 +10,14 @@
 #block-1 {
   color: #FFF;
   background-color: #A6CE39;
+  height: 720px;
 }
 
 #block-1-header {
   font-family: 'Sriracha-Regular';
   font-size: 35pt;
-
   text-align: center;
-  padding-top: 180px;
-  padding-bottom: 210px;
+  padding-top: 230px;
 }
 
 #name {
@@ -30,23 +29,23 @@
   color: #A6CE39;
   background-color: #FFF;
   font-family: 'Sriracha-Regular';
-  font-size: 35pt;
+  font-size: 38pt;
   font-weight: normal;
   text-align: left;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 110px;
+  height: 720px;
 }
 
 #block-3 {
   background: url("img/block03.png") no-repeat center;
   color: #FFF;
   background-color: #333333;
+  height: 700px;
 }
 
 #block-3-text {
   font-family: 'Sriracha-Regular';
   font-size: 24pt;
-
   line-height: 150%;
   text-align: left;
   padding-top: 30px;
@@ -57,12 +56,12 @@
   background: url("img/block04.png") no-repeat center;
   color: #333333;
   background-color: #A6CE39;
+  height: 700px;
 }
 
 #block-4-text {
   font-family: 'Sriracha-Regular';
   font-size: 24pt;
-
   line-height: 150%;
   text-align: left;
   padding-top: 490px;
@@ -79,15 +78,14 @@
 #block-6 {
   color: #FFF;
   background-color: #A6CE39;
+  height: 700px;
   padding-top: 200px;
-  padding-bottom: 200px;
 }
 
 #block-6-text1 {
   font-family: 'Sriracha-Regular';
   font-size: 84pt;
   line-height: 80%;
-
   text-align: center;
 }
 
@@ -111,16 +109,15 @@
   background-size: cover;
   color: #FFF;
   background-color: #333333;
+  height: 700px;
 }
 
 #block-7-text {
   font-family: 'Sriracha-Regular';
   font-size: 30pt;
-
   line-height: 150%;
   text-align: left;
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
 }
 
 #block-8 {
@@ -128,16 +125,15 @@
   background-size: cover;
   color: #A6CE39;
   background-color: #333333;
+  height: 700px;
 }
 
 #block-8-text {
   font-family: 'Sriracha-Regular';
-  font-size: 20pt;
-
+  font-size: 24pt;
   line-height: 150%;
   text-align: left;
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 130px;
 }
 
 #block-9 {
@@ -146,7 +142,6 @@
   font-family: 'Sriracha-Regular';
   font-size: 45pt;
   line-height: 100%;
-
   text-align: left;
   padding-top: 50px;
   padding-bottom: 70px;
@@ -154,16 +149,22 @@
 
 #block-9-Title {
   font-family: 'Sriracha-Regular';
-  font-size: 18pt;
-
+  font-size: 14pt;
   text-align: left;
   letter-spacing: 0px
 }
 
 #block-9-Char {
   font-family: 'Sriracha-Regular';
-  font-size: 40pt;
+  font-size: 36pt;
+  text-align: left;
+  letter-spacing: 3px
+}
 
+#block-9-Char-2 {
+  font-family: 'Sriracha-Regular';
+  font-size: 24pt;
+  line-height: 160%;
   text-align: left;
   letter-spacing: 3px
 }
@@ -171,8 +172,7 @@
 #block-9-Vowel {
   font-family: 'Sriracha-Regular';
   line-height: 150%;
-  font-size: 40pt;
-
+  font-size: 36pt;
   text-align: left;
 }
 
